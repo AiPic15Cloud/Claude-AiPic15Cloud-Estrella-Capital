@@ -92,7 +92,7 @@ ajoutée en prod après le dump, pleine ou vide) qui sortent bien en code 1.
 
 | Date (UTC) | Dump | Résultat |
 |---|---|---|
-| 2026-09-27 23:29 | `atlas-20260927-232349.dump` (4,2 Mo, 780 entrées) | **OK** — 108 tables, 22 030 lignes, comptages identiques à la prod |
+| 2026-09-27 23:29 | `atlas-20260927-232349.dump` (4,2 Mo, 780 entrées) | **OK** — toutes les tables présentes, 22 030 lignes, comptages identiques à la prod |
 
 ## Passage au PITR (plus tard)
 
